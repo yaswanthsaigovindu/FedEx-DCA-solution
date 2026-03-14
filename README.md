@@ -5,6 +5,7 @@
 This repository contains the prototype for an intelligent Debt Collection Agency (DCA) Management platform designed to streamline recovery operations, improve transparency, and automate case prioritization. 
 
 The platform transitions FedEx from manual, spreadsheet-based tracking to a centralized digital ecosystem. It integrates legacy data with predictive analytics to optimize debt recovery workflows.
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e8daa0ed-ebc9-4f1e-b85a-86ef918cdd34" />
 
 ## Installation and Setup
 To run this project locally and explore the dashboard:
