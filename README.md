@@ -11,7 +11,7 @@ The platform transitions FedEx from manual, spreadsheet-based tracking to a cent
 To run this project locally and explore the dashboard:
 
 1. **Clone the repository:**
-   `git clone https://github.com/your-username/your-repo-name.git`
+   `git clone https://github.com/yaswanthsaigovindu/FedEx-DCA-Solution.git`
 
 2. **Install dependencies:**
    `pip install -r requirements.txt`
